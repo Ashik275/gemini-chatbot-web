@@ -71,7 +71,6 @@ const API_KEY = 'YOUR_API_KEY_HERE';
 ## 👨‍💻 Author
 
 Your Name
-
----
+ Ashiqur Rahman
 
 ⭐ If you like this project, give it a star!
